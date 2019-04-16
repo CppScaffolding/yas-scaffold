@@ -1,0 +1,4 @@
+## .gitignore file for yas-scaffold
+
+## ignore folder fetched through gclient
+yas
